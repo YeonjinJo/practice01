@@ -49,8 +49,7 @@
 #samples div input {
   width : 50%;
   color : black;
-  border : 0;
-  border-radius: .1rem;
+  border-radius: .5rem;
   outline : .1rem black;
   padding : .25rem
 }
